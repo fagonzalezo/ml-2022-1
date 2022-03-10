@@ -20,7 +20,8 @@ image:
 				Asynchronous Class:<br>
 				Brief Introduction to ML (<a href= "introduction ml.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1F_-FxUdhE7zioW1awuvu15BX_x16BtZV/edit?t=34">video 1</a>, <a href= "https://drive.google.com/file/d/15cHrAneUhEJpX-iHEophkfLiRuSavU9t/edit?t=613">video 2</a>, 
 				<a href= "https://drive.google.com/file/d/11JecvlhV6EujbYF9IlkGIi4_E0HSRcwC/edit?t=1912">video 3</a>)<br>
-				<a href= "http://videolectures.net/bootcamp07_keller_bss/">Linear Algebra and Probability Review</a> (part 1 Linear Algebra, part 2 Probability)
+				<a href= "http://videolectures.net/bootcamp07_keller_bss/">Linear Algebra and Probability Review</a> (part 1 Linear Algebra, part 2 Probability)<br>
+				[Alp14] Chap 1 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap1.pdf">slides</a>)
 			</td>
 			<td>
 				<a href= "problems1.pdf">Practice problems 1</a>
