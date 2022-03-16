@@ -24,7 +24,8 @@ image:
 				[Alp14] Chap 1 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap1.pdf">slides</a>)
 			</td>
 			<td>
-				<a href= "problems1.pdf">Practice problems 1</a>
+				<a href= "problems1.pdf">Practice problems 1</a><br>
+				<a href= "https://colab.research.google.com/drive/1U3q5ikD9CjAB5xBHFKQsvumiyrmxouHF?usp=sharing">Practice problems 2</a>
 			</td>
 		</tr>
 		<tr>
@@ -49,7 +50,6 @@ image:
 				Bias and variance (<a href= "https://colab.research.google.com/drive/12Oo06Ge2ly-9WI3ifj2t9HyZJrioLoy7?usp=sharing">Jupyter notebook</a>)<br>
 			</td>
 			<td>
-				<!-- <a href= "problems2.pdf">Practice problems 2</a> -->
 			</td>
 		</tr>
 		<tr>
