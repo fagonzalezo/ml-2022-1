@@ -37,6 +37,7 @@ image:
 				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>) (<a href= "https://drive.google.com/file/d/1q5KSTW6WiJjcWMLEOrvRys2WTD7HneWh/view?usp=sharing">annotated slides</a>)<br>
 			</td>
 			<td>
+				<a href= "problems3.pdf">Practice problems 3</a><br>
 			</td>
 		</tr>
 		<tr>
