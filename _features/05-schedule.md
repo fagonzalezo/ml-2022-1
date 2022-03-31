@@ -51,6 +51,7 @@ image:
 				Bias and variance (<a href= "https://colab.research.google.com/drive/12Oo06Ge2ly-9WI3ifj2t9HyZJrioLoy7?usp=sharing">Jupyter notebook</a>)<br>
 			</td>
 			<td>
+				<a href= "problems4.pdf">Practice problems 4</a><br>
 			</td>
 		</tr>
 		<tr>
