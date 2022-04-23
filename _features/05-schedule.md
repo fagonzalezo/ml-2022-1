@@ -82,7 +82,7 @@ image:
 				[SC04] Chap 1 and 2<br>
 			</td>
 			<td>
-				<!-- <a href= "problems3.pdf">Practice problems 3</a> -->
+				<a href= "problems5.pdf">Practice problems 5</a>
 			</td>
 		</tr>
 		<tr>
