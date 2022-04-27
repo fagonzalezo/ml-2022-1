@@ -93,8 +93,8 @@ image:
 				(<a href= "https://drive.google.com/file/d/1nKFlXYi90BeCuSSnq929-SooBndQw-k_/view?t=178">video 1</a>)
 				(<a href= "https://drive.google.com/file/d/1pwynrZAKI33-t3QWNzFJNniCNpY_vnjo/view?t=42">video 2</a>)<br>
 				[Alp14] Chap 13 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf">slides</a>)<br>
-				<a href="http://axiom.anu.edu.au/%7Edaa/courses/GSAC6017/tekbac_4.pdf">An
-					introduction to ML</a>, Smola <br>
+				<a href="http://alex.smola.org/teaching/kernelcourse/day_1.pdf">An
+					introduction to ML (Lecture 4, pp 146)</a>, Smola <br>
 				<a href="http://www1.cs.columbia.edu/%7Ekathy/cs4701/documents/jason_svm_tutorial.pdf">Support
 					Vector Machine Tutorial</a>, Weston<br>
 				Máquinas de vectores de soporte y selección de modelos (<a href="https://drive.google.com/file/d/1X4b_5FMHDs7EtbwPzw7YDeMF5V4pqoer/view?usp=sharing">Jupyter Notebook</a>)<br>
