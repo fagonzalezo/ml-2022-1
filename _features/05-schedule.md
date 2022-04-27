@@ -95,7 +95,7 @@ image:
 				[Alp14] Chap 13 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf">slides</a>)<br>
 				<a href="http://alex.smola.org/teaching/kernelcourse/day_1.pdf">An
 					introduction to ML (Lecture 4, pp 146)</a>, Smola <br>
-				<a href="http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf">Support
+				<a href="http://www.cs.columbia.edu/%7ekathy/cs4701/documents/jason_svm_tutorial.pdf">Support
 					Vector Machine Tutorial</a>, Weston<br>
 				Máquinas de vectores de soporte y selección de modelos (<a href="https://drive.google.com/file/d/1X4b_5FMHDs7EtbwPzw7YDeMF5V4pqoer/view?usp=sharing">Jupyter Notebook</a>)<br>
 			</td>
