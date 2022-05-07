@@ -114,7 +114,7 @@ image:
 				Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">Jupyter notebook</a>)<br>
 			</td>
 			<td>
-				<!-- <a href= "assign3.pdf">Assignment 3</a> -->
+				<a href= "assign2.pdf">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
