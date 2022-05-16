@@ -127,6 +127,7 @@ image:
 				<a href= "https://fagonzalezo.github.io/ml-2018-1/backpropagation.pdf">Backpropagation derivation handout</a>
 			</td>
 			<td>
+				<a href= "https://colab.research.google.com/drive/1dMDyxrmjFmFyKM--29OGwMBA7SXffU6w?usp=sharing">Practice problems 7</a>
 			</td>
 		</tr>
 		<tr>
@@ -140,6 +141,7 @@ image:
 				Asynchronous class 
 				(<a href= "https://drive.google.com/file/d/17qsyxm1D4KE9Ztm2nivrpDTvO6xbeV2K/view?t=10">video 1</a>, <a href= "https://drive.google.com/file/d/1DOmG7CDX7vrRM9jZDBL7w0hnzR6nFdaB/view?t=49">video 2</a>)<br>
 				Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
+				[GBC2016] Chap 6 <br>
 				Deep learning frameworks (<a href= "https://fagonzalezo.github.io/ml-2020-1/ML%20Deep%20Learning%20Frameworks.pdf">slides</a>)<br>
 				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
