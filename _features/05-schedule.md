@@ -147,7 +147,7 @@ image:
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
 			</td>
 			<td>
-				<!-- <a href= "problems5.pdf">Practice problems 5</a> -->
+				<a href= "problems8.pdf">Practice problems 8</a>
 			</td>
 		</tr>
 		<tr>
@@ -161,8 +161,8 @@ image:
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
 			</td>
 			<td>
-				<!-- <a href= "assign4.pdf">Assignment 4</a><br>
-				<a href= "problems6.pdf">Practice problems 6</a> -->
+				<!-- <a href= "assign4.pdf">Assignment 4</a><br> -->
+				<a href= "problems9.pdf">Practice problems 9</a>
 			</td>
 		</tr>
 		<tr>
