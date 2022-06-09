@@ -21,6 +21,7 @@ image:
 * [SS02] Scholkopf, B. and Smola, A.J., 2002, Learning with kernels, MIT Press.
 * [OCW-ML] 6.867 Machine Learning, Fall 2006,  MIT OpenCourseWare.
 * [STANFD-ML] Andrew Ng, CS229 Machine Learning, Stanford University
+* [FundDL] Raúl Ramos, [Fundamentos de Deep Learning](https://fagonzalezo.github.io/2021.deeplearning/), Universidad de Antioquia, 2021
 
 
 

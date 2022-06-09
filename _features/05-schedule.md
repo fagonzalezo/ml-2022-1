@@ -173,55 +173,33 @@ image:
 				(<a href= "https://drive.google.com/file/d/1exxGq3X1mDHqhMMDiA0Q_mhqy0MvpE8U/view?t=184">video 1</a>, <a href= "https://drive.google.com/file/d/1hU7w32avFaa2BaYymSIwRoty9l5wbiB0/view?t=36">video 2</a>)<br>
 				<a href= "https://colab.research.google.com/drive/1bs4_l2ZA-uJYdvrOZpWgb8ItDg1PRKft?usp=sharing">CNN for text classification handout</a> <br>
 				<a href= "https://colab.research.google.com/drive/1DbCuNqQ8wwDAqnWJxrEnyKey_zgWD-5p?usp=sharing">LSTM language model handout</a> <br>
+				[<a href= "https://fagonzalezo.github.io/2021.deeplearning/intro.html">FunDL</a>] Sect 5.0-5.3<br>
 			</td>
 			<td>
-				<!-- <a href= "https://www.dropbox.com/request/Vfkdd8yvVzSkFSpoqPRF">Project proposal</a>: 3 persons per group, maximum 2 pages describing problem, objectives and method (01/06/21) -->
+				<a href= "https://www.dropbox.com/request/nrt1MBd076Y5Nl7sqzGQ">Project proposal</a>: 3 persons per group, maximum 2 pages describing problem, objectives and method (12/06/22)
 			</td>
 		</tr>
 		<tr>
 			<td>Jun 13</td>
+			<td>3.5 Transformer networks</td>
+			<td>
+				[<a href= "https://fagonzalezo.github.io/2021.deeplearning/intro.html">FunDL</a>] Sect 5.8<br>
+				<b>Videos:</b><br>
+				[FunDL] <a href= "https://youtu.be/p727fQCrw9c">15. Self-attention</a> <br>
+				[FunDL] <a href= "https://youtu.be/XTtcdIXskvY">16. Bert</a><br>
+			</td>
+			<td>
+			Assigment 3: (25/06/22)<br>
+			[FunDL] <a href= https://fagonzalezo.github.io/2021.deeplearning/content/U5%20LAB%2001%20-%20Multivariate%20time%20series%20prediction.html">LAB 5.1 - Time series prediction</a><br>
+			[FunDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/U5%20LAB%2003%20-%20Sentiment%20Analysis%20using%20BERT.html">LAB 5.3 - Transformer - Bert</a><br>
+			</td>
+		</tr>
+		<tr>
+		<tr>
+			<td>Jun 20</td>
 			<td>3.5 Deep generative models</td>
 			<td>Alexander Amini, Deep generative models (<a href="http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=BUNl0To1IVw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>)<br>
 			Deep generative models (<a href= "https://drive.google.com/file/d/10mZlO1b6zPfCig9bc-mKHPqP84ldCTeG/view?usp=sharing">Jupyter notebook</a>)
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>Jun 20</td>
-			<td>4.1 Bayesian Methods<br>
-			4.2 Monte Carlo inference</td>
-			<td>
-			Asynchronous class 
-			(<a href= "https://drive.google.com/file/d/1CZ7jql9BhWdBHKxI8BCLf1pdHV80rQbr/view?t=13">video 1</a>, <a href= "https://drive.google.com/file/d/19y2F4aS0gNcV0EPfFOMUlrBYu6GHlNrZ/view?t=16">video 2</a>)<br>
-			Radford M. Neal, Bayesian Methods for Machine Learning (<a href= "https://www.cs.toronto.edu/~radford/ftp/bayes-tut.pdf">slides</a>)<br>
-			Beery et al., Markov Chain Monte Carlo for Machine Learning, Adv Topics in ML, Caltech (<a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">slides</a>)<br>
-			Alex Rogozhnikov, <a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">Hamiltonian Monte Carlo explained
-			</a>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>Jun 27</td>
-			<td>4.3 Variational Bayes</td>
-			<td>
-			Asynchronous class 
-			(<a href= "https://drive.google.com/file/d/1XO-RjjYEbB2zIvzxc_I9R_ww8RWgBSlI/view?t=75">video</a>)
-			<a href= "https://colab.research.google.com/drive/1xIC_Y5T7IwkJz0SNQyRSlRfDf2fDRvbv">Variational Bayes in Tensorflow</a> <br>
-			<a href= "https://colab.research.google.com/drive/1xX11qB8Ls9t_wuvRYHQp1_v-qBImVkt1">Variational Autoencoders in Tensorflow</a> <br>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>Jul 4</td>
-			<td>5.1 Learning with Density Matrices and RFF</td>
-			<td>
-			Synchronous class 
-			(<a href= "https://drive.google.com/file/d/1oIGwoeDEO3PHu2UZ-MlO5Wft33tFkdUd/view?usp=sharing">video 1</a>, <a href= "https://drive.google.com/file/d/1ASMtWKydKa98M7qkUpw5cL1bSg7KDPSw/view?usp=sharing">video 2</a>) <br>
-			<a href= "Learning with Density Matrices.pdf">Learning with DM and RFF slides</a> <br>
-			<a href= "https://colab.research.google.com/drive/1riKlwcu8M_Hrk8X3OoZFo57-O6MkS2zt?usp=sharing">Learning with DM and RFF notebook</a> <br>
 			</td>
 			<td>
 			</td>

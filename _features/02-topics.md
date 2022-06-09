@@ -36,6 +36,8 @@ image:
 
 3.5 Deep generative models
 
+3.6 Transformer networks
+
 4 **Probabilistic Programming**
 
 4.1 Bayesian Methods
