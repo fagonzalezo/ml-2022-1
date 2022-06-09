@@ -190,7 +190,7 @@ image:
 			</td>
 			<td>
 			Assigment 3: (25/06/22)<br>
-			[FunDL] <a href= https://fagonzalezo.github.io/2021.deeplearning/content/U5%20LAB%2001%20-%20Multivariate%20time%20series%20prediction.html">LAB 5.1 - Time series prediction</a><br>
+			[FunDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/U5%20LAB%2001%20-%20Multivariate%20time%20series%20prediction.html">LAB 5.1 - Time series prediction</a><br>
 			[FunDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/U5%20LAB%2003%20-%20Sentiment%20Analysis%20using%20BERT.html">LAB 5.3 - Transformer - Bert</a><br>
 			</td>
 		</tr>
