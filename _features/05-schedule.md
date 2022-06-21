@@ -195,7 +195,6 @@ image:
 			</td>
 		</tr>
 		<tr>
-		<tr>
 			<td>Jun 20</td>
 			<td>3.5 Deep generative models</td>
 			<td>Alexander Amini, Deep generative models (<a href="http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L4.pdf">slides</a>, <a href= "https://www.youtube.com/watch?v=BUNl0To1IVw&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4">video</a>) (from <a href= "http://introtodeeplearning.com">MIT 6.S191</a>)<br>
@@ -204,5 +203,15 @@ image:
 			<td>
 			</td>
 		</tr>
+		<tr>
+			<td>July 7</td>
+			<td>Final project</td>
+			<td>
+			</td>
+			<td>
+				<a href= "project.pdf">Final project</a>
+			</td>
+		</tr>
+
 	</tbody>
 </table>
