@@ -204,7 +204,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>July 7</td>
+			<td>July 6</td>
 			<td>Final project</td>
 			<td>
 			</td>
